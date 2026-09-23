@@ -1,0 +1,692 @@
+<!doctype html>
+    <html lang="en">
+      <head>
+        <title>Title</title>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <script src="https://kit.fontawesome.com/051107e1a0.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="folklore-academiadotcom.css">
+
+    
+    </head>
+      <body>
+          
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+      </body>
+    </html>
+
+<div class="fade-bottom mt-2">
+    
+<!--== WITCHY PAGEDOLL ==-->
+
+    <div class="card bg-transparent border-0 d-none d-md-block zoom" style="position: fixed ;  z-index: 5 ; top: 35px ; left: 15px ; max-height: 150px ; max-width: 150px ">
+    <div style="position: sticky ; top: 0px">
+    <div class="card border-0 p-2 bg-white text-center" style="transform: rotate(-5deg) ; color: #460097 ; font-weight: 600 ; line-height: 18px ; height: 80px ; opacity: .75 ; clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 55% 75%, 50% 100%, 45% 75%, 0% 75%); margin-bottom: -10px"><p class="my-1">Go, Folklore Freaks!</p></div>
+    
+<img class="rock" src="https://f2.toyhou.se/file/f2-toyhou-se/images/117138164_fWwynwgrXJt7Lbc.png" style="max-height: 200px ; min-height: 175px">
+</div>
+</div>
+
+<!-- GENERAL CODE -->
+<div class="container p-0 mx-auto"><div class="card border-0 rounded-0 bg-transparent mx-auto " style="text-transform: uppercase;
+  max-width: 1000px;
+  min-height: 75px;
+  text-shadow: 3px 3px #fff, -3px -3px #fff, 3px -3px #fff, -3px 3px #fff, 0px 3px #fff, 0px -3px #fff, 3px 0px #fff, -3px 0px #fff, 0px 0px 15px #000, 0px 0px 15px #000 ;
+  font-size: 5em;
+  font-family: 'Courier new';
+  font-weight: 600;
+  align-items: center;
+  justify-content: center;
+  line-height: 4rem;
+  text-align: center;
+  margin-top: 50px;"><p><span style="color: #3B0058;">Folklore</span> <span style="color: #970000">Academia</span>
+  </p></div>
+ 
+ <div class="card border-0 bg-transparent text-center "><p style="color: #970000 ; font-family: courier new ; font-size: 14px ; margin-bottom: 45px">
+    <a href="https://toyhou.se/~world/225813.bloody-moonster" style="--fa-primary-color: #970000 ; 
+    --fa-secondary-color: #3B0058 ; --fa-secondary-opacity: 1"><span class="badge p-2 m-1 zoom" style="background-color: #fff; color: #000;"><i class="fa-duotone fa-link"></i> Back to Bloody Moonster</span></a>
+    •
+    <a href="https://toyhou.se/" style="--fa-primary-color: #970000 ; 
+    --fa-secondary-color: #460097 ; --fa-secondary-opacity: 1"><span class="badge p-2 m-1 zoom" style="background-color: #fff;  color: #000">Back to Toyhou.se <i class="fa-duotone fa-link fa-flip-horizontal"></i></span></a></p>
+</div>
+
+<div class="card border-0 p-2 rounded-0 text-center" style="margin-top: -30px ; font-size: 30px; font-family: Times New Roman ; color: #970000 ; background-color: rgba(255,255,255,0.75)">
+    <div class="row justify-content-center">
+    <p>
+        <div class="col-lg-2"><img style="max-width: 70px ; max-height: auto" src="https://f2.toyhou.se/file/f2-toyhou-se/thumbnails/102510082_VqV.png?1756580506"></div>
+        <p class="col-lg-7 m-2 my-auto" style="line-height: 30px ; font-weight: 900 ; text-shadow: 2px 2px #fff, -2px -2px #fff, 2px -2px #fff, -2px 2px #fff, 0px 2px #fff, 0px -2px #fff, 2px 0px #fff, -2px 0px #fff"><span style="color: #3B0058;">&laquo;</span> Ars longa, vita brevis&nbsp;·&nbsp;Art is long, life is short <span style="color: #3B0058;">&raquo;</span></p>
+        <div class="col-lg-2"><img style="max-width: 70px ; max-height: auto" src="https://f2.toyhou.se/file/f2-toyhou-se/thumbnails/102510082_VqV.png?1756580506"></div>
+</div></div>
+<hr style="opacity:0">
+
+<!--================== NAVIGATION ==================-->
+
+<ul class="nav nav-tabs row mb-2 mx-2 justify-content-center" style="border-bottom: dashed 2px #fff ; margin-top: -20px" role="tablist">
+  <li class="col-lg-2 mt-1" style="margin: 0px -10px">
+      <a class="nav-link btn btn-block  zoom justify-content-center" style="color: #fff ; background-color: #3B0058 ; border: solid 3px #fff ; border-radius: 15px 15px 0px 0px ;" data-toggle="tab" href="#HomePage">Home Page</a></li>
+  <li class="col-lg-2 mt-1"  style="margin: 0px -10px">
+      <a class="nav-link btn btn-block zoom justify-content-center" style="color: #fff ; background-color: #970000 ; border: solid 3px #fff ; border-radius: 15px 15px 0px 0px" data-toggle="tab" href="#Academics">Academics</a></li>
+  <li class="col-lg-2 mt-1"  style="margin: 0px -10px">
+      <a class="nav-link btn btn-block zoom justify-content-center" style="color: #fff ; background-color: #3B0058 ; border: solid 3px #fff ; border-radius: 15px 15px 0px 0px" data-toggle="tab" href="#Staffmembers">Staff</a></li>  
+  <li class="col-lg-2 mt-1"  style="margin: 0px -10px">
+      <a class="nav-link btn btn-block zoom justify-content-center" style="color: #fff ; background-color: #970000 ; border: solid 3px #fff ; border-radius: 15px 15px 0px 0px" data-toggle="tab" href="#Community">Community</a></li>
+<li class="col-lg-2 mt-1"  style="margin: 0px -10px">
+      <a class="nav-link btn btn-block zoom justify-content-center" style="color: #fff ; background-color: #3B0058 ; border: solid 3px #fff ; border-radius: 15px 15px 0px 0px" data-toggle="tab" href="#Alums">Alums</a></li>
+ <li class="col-lg-2 mt-1"  style="margin: 0px -10px">
+      <a class="nav-link btn btn-block zoom justify-content-center" style="color: #fff ; background-color: #970000 ; border: solid 3px #fff ; border-radius: 15px 15px 0px 0px" data-toggle="tab" href="#History">History</a></li>
+</ul>
+
+
+<div class="tab-content">
+
+
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ WHO ARE WE ? ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+<!--<div class="tab-pane fade hide" id="HomePage">-->
+<div class="tab-pane fade active show" id="HomePage">
+
+            <div class="container rounded-0 p-4 mt-2 mx-1 border-0" style="background-color: rgba(255,255,255,0.75) ; color:#3B0058 ; z-index: 1">
+        <div class="card p-3 text-center" style="font-family: Times New Roman ; font-size: 18px ; color: #fff ; background-image: linear-gradient(to bottom,
+            #3B0058,
+            #7c0000) ; line-height: 22px ; font-weight: 400 ; border: solid 3px #fff "><p>Welcome to the Folklore Academia, dear monsters. Where all the students share a  common passion for a life off the beaten track. <br>Artists, athletes, learned magicians or others, the academia will welcome you with open arms  to give you the degree for an atypical future.</p></div>
+
+            <hr style="border-top: none ; border-bottom: dashed 2px #fff ; margin-bottom: -0px">
+
+<!-- Hacked note 1 -->
+            <div class="card p-0 m-2 float-right rounded-0 text-center" style="transform: rotate(-3deg) ; height: auto ; width: 300px ; border: solid 2px #000; top: 120px ; right: 2px ;  background-image: linear-gradient(to bottom,
+            #000 3%,
+            #17f437); font-family: Comic Sans MS ; overflow: hidden ; z-index: auto ; box-shadow: 0px 0px 10px #000 ; color: #fff ; position: absolute">
+            
+            <div class="card border-0 bg-transparent" style="background-image: url(https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; height: 500px ; width: 500px; background-size: cover; background-attachment: fixed; background-position: right ; z-index: -1; position: absolute ; opacity: 0.5 ; filter: blur(1px)"></div>
+            <p class="m-2">Just say we're fucked up freaks here, they know it already: atp it's  a slur to say you're from the Folklore Academia.<br>(I wonder how long 'til they realize I hacked the server lmao)</p></div>
+        
+        <!-- Hacked note 2 -->
+            <div class="card p-0 m-2 float-right rounded-0 text-center" style="transform: rotate(3deg) ; height: auto ; width: 150px ; border: solid 2px #000; top: 150px ; right: 2px ; background-image: linear-gradient(to bottom,
+            #000 3%,
+            #17f437); font-family: Comic Sans MS ; overflow: hidden ; z-index: auto ; box-shadow: 0px 0px 10px #000 ;  color: #fff">
+            
+            <div class="card border-0 bg-transparent" style="background-image: url(https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; height: 500px ; width: 500px; background-size: cover; background-attachment: fixed; background-position: right ; z-index: -1; position: absolute; opacity: 0.5 ; filter: blur(1px)"></div>
+            <p class="m-2">Oopsies, I fucked up the banner. </p></div>
+
+<!-- Library banner 1 -->
+        
+        <div class="card my-3 mx-auto rounded-0 " style="transform: rotate(1deg) ;height: 200px ; width: auto ;background-image: url(https://images.unsplash.com/photo-1501503069356-3c6b82a17d89?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; background-position: center -275px ; z-index: -2 ; border: solid 3px #fff"></div>
+        <hr style="opacity: 0">
+        
+        <p style="text-align: center ; font-weight: 700 ; font-size: 24px ; text-shadow: 1px 1px 0px #fff, -1px -1px 0px #fff, 1px -1px 0px #fff, -1px 1px 0px #fff, 0px 0px 5px #000"><em><span style="color: #3B0058">Author's note:</span> <span style=" color: #970000">This page is still a Work-In-Progress, my apologies!</span></em></p>
+</div>
+
+ <!-- WITCHY -->
+<div class="container rounded-0 p-4 mt-2 mx-1 border-0" style="background-color: rgba(255,255,255,0.75) ; color:#3B0058 ; z-index: 1" id="#Witchy"><p class="mb-2" align="center">Say hi to our beloved mascot!</p>
+    
+<div class="row p-2">
+    <div class="col-lg-7 mb-2"><p style="text-align: center ; font-size: 48px ; font-family: courier new ; font-weight: bolder ; margin-bottom: 5px ; color: #7c0000 ; line-height: 40px">Witchy The Cat</p>
+    <div class="card mx-auto bg-transparent border-0 justify-content-center" style="text-align: center ; max-height: 400px ; max-width:400px ; min-height: 100px ; min-width: 100px">
+    <img class="m-3 mx-auto zoom-tilt" src="https://f2.toyhou.se/file/f2-toyhou-se/images/114629001_3tfejoBvEkJaQM2.png?1770330610" style="max-height: 350px"></div>
+    <p class="p-2" style="text-align:center">Our fluffy mascot, Witchy, is a kind and joyful cat born with strange eyes and whiskers, and a mind probably not as sharp as a kitten's claws. Although, being different never stopped our beloved feline from doing whatever's best to make other people happy!<br><br>Witchy's favorite hobbies are making new friends, fishing yummy carps, and encouraging people! Whatever you struggle with, you can do it, Witchy believes in you!! ♥<br><br>Witchy also does not understand the concept of gender, is it something to eat, maybe? In anycase, it's probably not as tasty as a well-seasoned fish! You may refer to our big ball of fur as a boy, a girl, a cat hiding a secret gender in its fanny pouch... Whatever you think might fit! If you're happy, that's what matters!</p>
+    <hr style="margin-top: 5px">
+    <div class="card p-2 bg-transparent" style="border: solid 2px; font-weight: 600"><p><i class="fas fa-warning"></i> <b>This message is directed to the furry community of our academia - and especially that one demon student we will not name:</b><br>Please stop making innapropriate art of Witchy, we beg of you. There's only fluff down here, nothing else!! <em>PLEASE STOP YOU TRAUMATIZED THE DEAN YOU WON YOU DON'T HAVE TO KEEP DOING THIS AGHFSHVACWGFQCHCWGBQ-</em></p>
+</div></div>
+    <div class="col-lg-5">
+
+<div class="card m-2 rounded-0 text-center" style="color: #fff ; border: solid 2px #000 ;  background-image: linear-gradient(to bottom,
+            #000 3%,
+            #17f437); font-family: Comic Sans MS ; overflow: hidden ; box-shadow: 0px 0px 10px #000 ; position: absolute ; top: 85px ; left: -170px ; z-index: 2 ; transform: rotate(-9deg)">
+    <div class="card border-0 bg-transparent" style="background-image: url(https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; height: 200px ; width: 200px; background-size: cover; background-attachment: fixed; background-position: 100px 50px; z-index: -1; position: absolute ; opacity: 0.5 ; filter: blur(1px)"></div>
+    
+    <img class="px-3 pt-2" src="https://f2.toyhou.se/file/f2-toyhou-se/images/126492356_K82WpgYBSFsLiqm.jpg" style="max-height: 100px">
+<p class="px-3 py-1" style="text-shadow: 2px 2px #000, -2px -2px #000, 2px -2px #000, -2px 2px #000, 0px 2px #000, 0px -2px #000, 2px 0px #000, -2px 0px #000, 0px 0px 15px #000, 0px 0px 15px #000 ;">Art by <a href="https://artfight.net/~epicCow9999" target="_blank" style="color: #17f437">epicCow9999</a></p>
+</div>
+
+
+        <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/114553263_OsjcOjMIsnAWWWM.png?1770330628" style="max-width:auto; max-height:1000px"></div>
+    
+    <!-- Hacked note Witchy -->
+            <div class="card p-0 m-2 float-right rounded-0 text-center" style="transform: rotate(5deg) ; height: auto ; width: 300px ; color: #fff ; border: solid 2px #000; bottom: 20px ; right: 20px ;  background-image: linear-gradient(to bottom,
+            #000 3%,
+            #17f437); font-family: Comic Sans MS ; overflow: hidden ; z-index: 2 ; box-shadow: 0px 0px 10px #000 ; position: absolute">
+            
+            <div class="card border-0 bg-transparent" style="background-image: url(https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; height: 500px ; width: 500px; background-size: cover; background-attachment: fixed; background-position: right ; z-index: -1; position: absolute ; opacity: 0.5 ; filter: blur(1px)"></div>
+            <p class="m-2">Absolute fucking icon 🔥<br>He shoved a racist in a trashcan once. You talk shit 'bout Witchy, you'll have to deal with us all.<br><br>(We jokingly call it the Dean's fursona btw, sorry not sorry Mrs.Wittchen you had it coming with the names)</p>
+            
+            
+</div>
+
+
+
+</div>
+</div>
+</div>
+
+
+
+
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ ACADEMICS ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+  <div class="tab-pane fade hide" id="Academics">
+
+  <div class="container rounded-0 p-4 mt-2 mx-1 border-0" style="background-color: rgba(255,255,255,0.75) ; color:#3B0058 ; z-index: 1">
+                
+<div class="card p-3 text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+            #3B0058,
+            #7c0000) ; line-height: 22px ; font-weight: 400 ; border: solid 3px #fff ; font-family: Times New Roman ; font-size: 18px"><p><span style="font-size: 32px ; ">Academics</span>
+            <br>What degrees our students are able to pursue, and the different fields they can take as majors/minors.</p></div>
+            
+                <p class="text-center" style="font-size: 24px"><strong>W.I.P Page!</strong></p>
+
+
+            </div></div>
+
+
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ STAFF MEMBERS ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+<div class="tab-pane fade hide" id="Staffmembers"> 
+<!-- <div class="tab-pane fade active show" id="Staffmembers">-->
+    
+      <div class="container rounded-0 p-4 mt-2 mx-1 border-0" style="background-color: rgba(255,255,255,0.75) ; color:#3B0058 ; z-index: 1">
+
+    <div class="card p-3 text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+            #3B0058,
+            #7c0000) ; line-height: 22px ; font-weight: 400 ; border: solid 3px #fff ; font-family: Times New Roman ; font-size: 18px"><p><span style="font-size: 32px ; ">Staff</span>
+            <br>All the employees of our faculty, whether they are from administration, academics, or regular staff that keeps the academia alive! </p>
+    </div>
+ <hr>
+        <div style="background-image: url(https://images.unsplash.com/photo-1517048676732-d65bc937f952?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; height: 70px ; background-position: center ; border: solid 3px #fff "></div>
+        <hr>
+
+<div class="card py-1 pl-4" style="color: #fff ; background-image: linear-gradient(to bottom,
+            #3B0058,
+            #7c0000) ; font-weight: 400 ; border: solid 3px #fff ; font-family: Times New Roman ; font-size: 18px"><p>Administration</p>
+    </div>
+    
+<div class="row p-2 justify-content-center">
+        
+<!-- WITTCHEN -->
+<div class="col-lg-3 p-2 card border-0 bg-transparent zoom  text-center">
+    <p><img class="my-2 fr-rounded" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119480108_TTmIgZgbDPoiSEC.jpg" style="max-height: 150px ; max-width: 150px"></p>
+    
+<div class="card p-3 mx-auto text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+    #3B0058,
+    #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px"><p> <span style="font-size: 18px"><a href="https://toyhou.se/39868835.miss-wittchen" target="_blank"><u>E. Wittchen</u></a></span><br>Dean/Founder</p></div></div>
+</div>
+
+<div class="card py-1 pl-4" style="color: #fff ; background-image: linear-gradient(to bottom,
+            #3B0058,
+            #7c0000) ; font-weight: 400 ; border: solid 3px #fff ; font-family: Times New Roman ; font-size: 18px"><p>Academic Faculty</p>
+    </div>
+    
+    <div class="row p-2 justify-content-center">
+
+<!-- MAREN -->
+<div class="col-lg-3 p-2 card border-0 bg-transparent zoom  text-center">
+    <p><img class="my-2" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119468148_HWB9v4N00g4m0j9.png" style="max-height: 150px ; max-width: 150px"></p>
+    
+<div class="card p-3 mx-auto text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+    #3B0058,
+    #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px"><p> <span style="font-size: 18px"><!--<a href="https://toyhou.se/26933679.alpin-white" target="_blank">--><u>M. Andersen</u></span><br>Professor - Study of Anthropology and Monstrology</p></div></div>
+    
+<!-- FRANKENSTEIN -->
+<div class="col-lg-3 p-2 card border-0 bg-transparent zoom  text-center">
+    <p><img class="my-2" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119468148_HWB9v4N00g4m0j9.png" style="max-height: 150px ; max-width: 150px"></p>
+    
+<div class="card p-3 mx-auto text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+    #3B0058,
+    #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px"><p> <span style="font-size: 18px"><!--<a href="https://toyhou.se/26933679.alpin-white" target="_blank">--><u>V. Frankenstein</u></span><br>Professor - Monster Biology</p></div></div>
+
+<!-- HYDE -->
+<div class="col-lg-3 p-2 card border-0 bg-transparent zoom  text-center ">
+    <p><img class="my-2 fr-rounded" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119475379_cYfWYkeo2wJBBnH.png" style="max-height: 150px ; max-width: 150px"></p>
+    
+<div class="card p-3 mx-auto text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+    #3B0058,
+    #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px"><p> <span style="font-size: 18px"><a href="https://toyhou.se/16772980.edward-hyde" target="_blank"><u>E. Hyde</u></a></span><br>Professor - History of Magic</p></div></div>
+
+<!-- KETZAL -->
+<div class="col-lg-3 p-2 card border-0 bg-transparent zoom  text-center ">
+    <p><img class="my-2 fr-rounded" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119475607_ICbpkna0luw7Zka.png" style="max-height: 150px ; max-width: 150px"></p>
+    
+<div class="card p-3 mx-auto text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+    #3B0058,
+    #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px"><p> <span style="font-size: 18px"><a href="https://toyhou.se/16867645.ketzal-inferno" target="_blank"><u>K. Inferno</u></a></span><br>Miscellanous Sports Professor, Supervisor of Sports Clubs, American Football Coach</p></div></div>
+    
+<!-- JEKYLL -->
+<div class="col-lg-3 p-2 card border-0 bg-transparent zoom  text-center ">
+    <p><img class="my-2 fr-rounded" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119475601_CqooXyiudwCHJD2.png" style="max-height: 150px ; max-width: 150px"></p>
+    
+<div class="card p-3 mx-auto text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+    #3B0058,
+    #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px"><p> <span style="font-size: 18px"><a href="https://toyhou.se/16772941.henry-jekyll" target="_blank"><u>H. Jekyll</u></a></span><br>Professor - Study of Magical Concoctions</p></div></div>
+
+<!-- RON PIPER (The Pied-Piper of Hamelin) -->
+<div class="col-lg-3 p-2 card border-0 bg-transparent zoom  text-center">
+    <p><img class="my-2" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119468148_HWB9v4N00g4m0j9.png" style="max-height: 150px ; max-width: 150px"></p>
+    
+<div class="card p-3 mx-auto text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+    #3B0058,
+    #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px"><p> <span style="font-size: 18px"><!--<a href="https://toyhou.se/26933679.alpin-white" target="_blank">--><u>R. Piper</u></span><br>Professor -  Music Composition</p></div></div>
+    
+<!-- PRINCE -->
+<div class="col-lg-3 p-2 card border-0 bg-transparent zoom  text-center">
+    <p><img class="my-2" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119468148_HWB9v4N00g4m0j9.png" style="max-height: 150px ; max-width: 150px"></p>
+    
+<div class="card p-3 mx-auto text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+    #3B0058,
+    #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px"><p> <span style="font-size: 18px"><!--<a href="https://toyhou.se/26933679.alpin-white" target="_blank">--><u>A. Prince</u></span><br>Professor - Painting Techniques</p></div></div>
+    
+</div>
+
+<p class="text-center p-2"><i class="far fa-warning"></i> List to be updated</p>
+
+<!--==== OTHER EMPLOYEES ====-->
+
+<div class="card py-1 pl-4" style="color: #fff ; background-image: linear-gradient(to bottom,
+            #3B0058,
+            #7c0000) ; font-weight: 400 ; border: solid 3px #fff ; font-family: Times New Roman ; font-size: 18px"><p>Other employees</p>
+    </div>
+    <div class="row p-2 justify-content-center">
+
+<!-- AIDA -->
+<div class="col-lg-3 p-2 card border-0 bg-transparent zoom  text-center ">
+    <p><img class="my-2 fr-rounded" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119474892_ikhBq0221CvAp5e.jpg" style="max-height: 150px ; max-width: 150px"></p>
+    
+<div class="card p-3 mx-auto text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+    #3B0058,
+    #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px"><p> <span style="font-size: 18px"><!--<a href="https://toyhou.se/26933679.alpin-white" target="_blank">--><u>A. Andersen</u></span><br>Head Nurse</p></div></div>
+
+<!-- MORTIMER (Le dernier jour d'un condamné - Victor Hugo) -->
+<div class="col-lg-3 p-2 card border-0 bg-transparent zoom  text-center">
+    <p><img class="my-2" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119468148_HWB9v4N00g4m0j9.png" style="max-height: 150px ; max-width: 150px"></p>
+    
+<div class="card p-3 mx-auto text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+    #3B0058,
+    #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px"><p> <span style="font-size: 18px"><!--<a href="https://toyhou.se/26933679.alpin-white" target="_blank">--><u>M. Condamné</u></span><br>Night Guard</p></div></div>
+
+<!-- PAGET (The Lion and The Rat - Jean de LaFontaine) -->
+<div class="col-lg-3 p-2 card border-0 bg-transparent zoom  text-center">
+    <p><img class="my-2" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119468148_HWB9v4N00g4m0j9.png" style="max-height: 150px ; max-width: 150px"></p>
+    
+<div class="card p-3 mx-auto text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+    #3B0058,
+    #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px"><p> <span style="font-size: 18px"><!--<a href="https://toyhou.se/26933679.alpin-white" target="_blank">--><u>P. DeLyon</u></span><br>Day Guard</p></div></div>
+    
+<!-- REGIS (The Lion and The Rat - Jean de LaFontaine) -->
+<div class="col-lg-3 p-2 card border-0 bg-transparent zoom  text-center">
+    <p><img class="my-2" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119468148_HWB9v4N00g4m0j9.png" style="max-height: 150px ; max-width: 150px"></p>
+    
+<div class="card p-3 mx-auto text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+    #3B0058,
+    #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px"><p> <span style="font-size: 18px"><!--<a href="https://toyhou.se/26933679.alpin-white" target="_blank">--><u>R. DeLyon</u></span><br>Day Guard</p></div></div>
+    
+<!-- ALICE -->
+<div class="col-lg-3 p-2 card border-0 bg-transparent zoom  text-center ">
+    <p><img class="my-2 fr-rounded" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119474960_EndwaX7ZicXpIfP.png" style="max-height: 150px ; max-width: 150px"></p>
+    
+<div class="card p-3 mx-auto text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+    #3B0058,
+    #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px"><p> <span style="font-size: 18px"><a href="https://toyhou.se/33992414.alice-dodgson" target="_blank"><u>A. Dodgson</u></a></span><br>Monitor</p></div></div>
+
+<!-- PIQUE-DU-NEZ -->
+<div class="col-lg-3 p-2 card border-0 bg-transparent zoom  text-center">
+    <p><img class="my-2 fr-rounded" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119474787_5Jz8P3QOfG0ykyy.jpg" style="max-height: 150px ; max-width: 150px"></p>
+    
+<div class="card p-3 mx-auto text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+    #3B0058,
+    #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px"><p> <span style="font-size: 18px"><!--<a href="https://toyhou.se/26933679.alpin-white" target="_blank">--><u>Pique "Pique-Du-Nez" DuNez</u></span><br>Monitor</p></div></div>
+    
+<!-- ROGUE -->
+<div class="col-lg-3 p-2 card border-0 bg-transparent zoom  text-center">
+    <p><img class="my-2" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119468148_HWB9v4N00g4m0j9.png" style="max-height: 150px ; max-width: 150px"></p>
+    
+<div class="card p-3 mx-auto text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+    #3B0058,
+    #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px"><p> <span style="font-size: 18px"><!--<a href="https://toyhou.se/26933679.alpin-white" target="_blank">--><u>R. Hatta</u></span><br>Monitor</p></div></div>
+    
+<!-- HAIGHA -->
+<div class="col-lg-3 p-2 card border-0 bg-transparent zoom  text-center">
+    <p><img class="my-2" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119468148_HWB9v4N00g4m0j9.png" style="max-height: 150px ; max-width: 150px"></p>
+    
+<div class="card p-3 mx-auto text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+    #3B0058,
+    #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px"><p> <span style="font-size: 18px"><!--<a href="https://toyhou.se/26933679.alpin-white" target="_blank">--><u>H. March</u></span><br>Monitor</p></div></div>
+    
+<!-- ALPIN -->
+<div class="col-lg-3 p-2 card border-0 bg-transparent zoom  text-center">
+    <p><img class="my-2 fr-rounded" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119475035_khKG5KWz5kOnthT.png" style="max-height: 150px ; max-width: 150px"></p>
+    
+<div class="card p-3 mx-auto text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+    #3B0058,
+    #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px"><p> <span style="font-size: 18px"><a href="https://toyhou.se/26933679.alpin-white" target="_blank"><u>A. White</u></a></span><br>Monitor</p></div></div>
+
+<!-- -->
+</div>
+
+<!-- Chess --> 
+    <div class="row p-2 justify-content-center">
+
+<div class="col-lg-3 p-2 card border-0 text-center bg-transparent zoom">
+    <p><img class="my-2 fr-rounded" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119471514_IkvK4Rh4DTvPXWN.png" style="max-height: 150px ; max-width: 150px"></p>
+    
+<div class="card p-3 mx-auto text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+    #3B0058,
+    #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px"><p> <span style="font-size: 18px"><a href="https://toyhou.se/27711811.chess" target="_blank"><u>The Chess Kitties</u></a></span><br>Emotional Support Cats</p></div></div>
+</div>
+<div class="card p-0 mx-auto rounded-0 text-center" style="transform: rotate(2deg) ; height: auto ; max-width: 400px ; border: solid 2px #000; top: 0px ;  background-image: linear-gradient(to bottom,
+            #000 3%,
+            #17f437); font-family: Comic Sans MS ; overflow: hidden ; z-index: auto ; box-shadow: 0px 0px 10px #000 ; color: #fff  ; bottom: -50px ;  z-index: 9">
+            
+            <div class="card border-0 bg-transparent" style="background-image: url(https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; height: 500px ; width: 500px; background-size: cover; background-attachment: fixed; background-position: right ; z-index: -1; position: absolute ; opacity: 0.5 ; filter: blur(1px)"></div>
+            <p class="m-2">THESE CATS. WHAT THE FUCK IS THEIR DEAL?? WAS A WHOLE LITTER ADOPTED?? ARE THEY CLONED??? I DON'T KNOW IF I EVER SAW TWO OF THEM AT THE SAME TIME. AM I GOING INSANE??</p></div>
+            
+</div>
+</div>
+
+<!--
+            <div class="card p-0 m-2 float-right rounded-0 text-center" style="transform: rotate(2deg) ; height: auto ; min-width: 200px ; border: solid 2px #000; bottom: -60px ;  background-image: linear-gradient(to bottom,
+            #000 3%,
+            #17f437); font-family: Comic Sans MS ; overflow: hidden ; z-index: auto ; box-shadow: 0px 0px 10px #000 ; color: #fff ; position: absolute ; z-index: 5">
+            
+            <div class="card border-0 bg-transparent" style="background-image: url(https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; height: 500px ; width: 500px; background-size: cover; background-attachment: fixed; background-position: right ; z-index: -1; position: absolute ; opacity: 0.5 ; filter: blur(1px)"></div>
+            <p class="m-2">With all due respect, she sounds like she'd kill a puppy "for science"</p></div>
+ -->
+
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ COMMUNITY ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+<!--<div class="tab-pane show active" id="Community">-->
+<div class="tab-pane fade hide" id="Community">
+
+      <div class="container rounded-0 p-4 mt-2 mx-1 border-0" style="background-color: rgba(255,255,255,0.75) ; color:#3B0058 ; z-index: 1">
+
+    <div class="card p-3 text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+            #3B0058,
+            #7c0000) ; line-height: 22px ; font-weight: 400 ; border: solid 3px #fff ; font-family: Times New Roman ; font-size: 18px"><p><span style="font-size: 32px ; ">Community</span>
+            <br>The way the Academia is outside of academics: from students lives, clubs, sports team, to our events especially!</p>
+    </div>
+
+ <hr>
+        <div style="background-image: url(https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; height: 70px ; background-position: -180px 100px ; border: solid 3px #fff "></div>
+        <hr>
+
+<ul class="nav row m-2 mb-3 justify-content-center text-uppercase" style="font-family: Times New Roman; color: #fff ; text-shadow: 0px 0px 2px #3B0058, 0px 0px 2px #3B0058, 0px 0px 2px #3B0058, 0px 0px 2px #3B0058, 0px 0px 2px #3B0058, 0px 0px 2px #3B0058, 0px 0px 2px #3B0058, 0px 0px 2px #3B0058, 0px 0px 2px #3B0058, 0px 0px 2px #3B0058, 0px 0px 2px #3B0058, 0px 0px 2px #3B0058, 0px 0px 2px #3B0058, 0px 0px 2px #3B0058, 0px 0px 2px #3B0058, 0px 0px 2px #3B0058 ; letter-spacing: 4px">
+    <li class="col-3 mt-1" style="color: #fff">
+        <a class="nav-link btn btn-block zoom justify-content-center" style="color: #fff ; font-weight: 700 ; background-image: url(https://images.unsplash.com/photo-1763477950484-12fd6f42c67e?q=80&w=1183&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; background-position: center; border: solid 3px #fff ; height: 300px" data-toggle="tab" href="#Students"><span style="transform: rotate(90deg) ; position: absolute ; top: 47% ; font-size: 22px">Student Life</span></a></li>
+    <li class="col-3 mt-1">
+        <a class="nav-link btn btn-block zoom justify-content-center" style="color: #fff ; font-weight: 700 ; background-image: url(https://images.unsplash.com/photo-1660606422342-2ce59709bb14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; background-position: center; border: solid 3px #fff ; height: 300px" data-toggle="tab" href="#Clubs"><span style="transform: rotate(90deg) ; position: absolute ; top: 47% ; font-size: 22px">Clubs</span></a></li>
+    <li class="col-3 mt-1">
+        <a class="nav-link btn zoom justify-content-center" style="color: #fff ; font-weight: 700 ; background-image: url(https://images.unsplash.com/photo-1601701089287-2a4fa78d091b?q=80&w=1199&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; background-position: center; border: solid 3px #fff ; height: 300px" data-toggle="tab" href="#Teams"><span style="transform: rotate(90deg) ; position: absolute ; top: 47% ; font-size: 22px">Official Teams</span></a></li>
+    <li class="col-3 mt-1">
+        <a class="nav-link btn btn-block zoom justify-content-center" style="color: #fff ; font-weight: 700 ; background-image: url(https://images.unsplash.com/photo-1680459520309-189cf5b22212?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; background-position: center; border: solid 3px #fff ; height: 300px" data-toggle="tab" href="#Events"><span style="transform: rotate(90deg) ; position: absolute ; top: 47% ; font-size: 22px">Events</span></a></li>  
+</ul>
+
+<div class="tab-content">
+    
+<!--========== STUDENT LIFE ==========-->
+  
+<div class="tab-pane fade hide" id="Students">
+<div class="card py-1 mb-2 text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+            #3B0058,
+            #7c0000) ; font-weight: 400 ; border: solid 3px #fff ; font-family: Times New Roman ; font-size: 18px"><p>Student Life</p>
+    </div>
+    <hr>
+    <h2 class="text-left"><strong>Residence Halls (Dormitories)</strong></h2>
+   <p><img src="https://images.unsplash.com/photo-1596276020587-8044fe049813?q=80&w=939&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="fr-fic fr-fil fr-dii m-2" style="width: 250px ; height: auto">
+    The student village, located at the North of the Academia, is divided into two mains parts: The Diurnal Village and Nocturnal Village, reserved for, respectively, Day Time students and Night Time students. Sometimes they are shortened to Day and Night dorms to make it easier.
+<br>All Day buildings have a name referencing the parts of the day, while the Night ones reference the phases of the Moon.
+
+    <br><br><strong>Diurnal Village buildings:</strong> Dawn, Sunrise, Morning, Midday, Afternoon, Sunset, Dusk
+    <br><strong>Nocturnal Village buildings:</strong> New Moon, Crescent Moon, Quarter Moon, Gibbous Moon and Full Moon
+
+<br><br>There is a single building reserved for inter-circadian meetings, called the Eclipse Hall, so monsters of all time of a day can meet at the middle of their villages.
+<br>Near the stadiums are visitor teams dorms in case they need to stay for multiple days.</p>
+<!-- Hacked note 1 -->
+            <div class="card p-0 mx-auto rounded-0 text-center" style="transform: rotate(-1deg) ; height: auto ; max-width: 450px ; border: solid 2px #000 ; background-image: linear-gradient(to bottom,
+            #000 3%,
+            #17f437); font-family: Comic Sans MS ; overflow: hidden ; z-index: 5 ; box-shadow: 0px 0px 10px #000 ; color: #fff ; position: relative">
+            
+            <div class="card border-0 bg-transparent" style="background-image: url(https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; height: 500px ; width: 500px; background-size: cover; background-attachment: fixed; background-position: right ; z-index: -1; position: absolute ;  opacity: 0.5 ; filter: blur(1px)"></div>
+            <p class="m-2">LOL the visitor dorms are rarely used, teams fear to stay on the Academia's grounds for too long.</p></div>
+<!-- End of hacked note 1 -->
+        <hr style="opacity: 0">
+        <p><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/119521638_wzQzLbQW88u1eHH.png" class="fr-fic fr-fil fr-dii m-2 float-right" style="width: 250px ; height: auto"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/119521783_Slynafc0A2L9ZnG.png" class="fr-fic fr-fil fr-dii m-2 float-right" style="width: 250px ; height: auto">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque..</p>
+
+        </div>
+        
+<!--========== CLUBS ==========-->
+
+<div class="tab-pane fade hide" id="Clubs">
+<div class="card py-1 mb-2 text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+            #3B0058,
+            #7c0000) ; font-weight: 400 ; border: solid 3px #fff ; font-family: Times New Roman ; font-size: 18px"><p>Clubs</p>
+    </div>
+        <p class="text-center" style="font-size: 24px"><strong>W.I.P Page!</strong></p>
+
+        </div>
+        
+<!--========== SPORTS TEAMS ==========-->
+  
+<div class="tab-pane fade hide" id="Teams">
+<div class="card py-1 mb-2 text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+            #3B0058,
+            #7c0000) ; font-weight: 400 ; border: solid 3px #fff ; font-family: Times New Roman ; font-size: 18px"><p>Official Sports Teams</p>
+    </div>
+    <p class="text-center" style="font-size: 24px"><strong>W.I.P Page!</strong></p>
+    
+    <p>The Folklore Freaks are how we call our talented athletes! At the Academia, we love to participate in inter-college competitions, and the mention of our name is enough to get our rivals shaking in their boots!<br>(NOT because we are a bad college of course ah ah ha-)
+    <br>
+    To join the state competitions, a sports club has to have as enough members as an official team. For now, only the <b>American Football Teams (Masculine and Feminine)</b> and the <b>swimming team</b> participate, so if a contest for your favorite club is what you seek, make sure to get your friends to join during club inscriptions at the start of the school year!</p>
+    <p class="text-center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/126489534_n5hXl6LsD7tOCjb.gif" style="height: 250px ; width: auto"><br>
+    Art by @FossilCreature</p>
+        </div>
+        
+<!--========== EVENTS ==========-->
+
+<div class="tab-pane fade hide" id="Events">
+<div class="card py-1 mb-2 text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+            #3B0058,
+            #7c0000) ; font-weight: 400 ; border: solid 3px #fff ; font-family: Times New Roman ; font-size: 18px"><p>Events</p>
+    </div>
+
+<!-- BLOOD MOON HALLOWEEN FESTIVAL -->
+<div class="card slideleft border-0 rounded-0 my-2" style="overflow: hidden ; min-height: 250px ; max-height: auto ; background-image: url(https://images.unsplash.com/photo-1468234560893-89c00b6385c8?q=80&w=1336&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; background-position: right ; background-size: cover">
+    
+    <div class="overlay-left p-3 rounded-0 text-right" style="background-color: rgba(255,255,255) ; color: #000 ; clip-path: polygon(8% 0, 100% 0, 100% 100%, 0% 100%); min-height: 101% ; margin-right: 0px; z-index: 5 ; font-family: Courier New">
+        <p class="slidelefttext" style="line-height: 30px">BLOOD<br>MOON<br>HALLOWEEN<br>FESTIVAL</p>
+    <p class="pr-5" style="font-size: 14px ; line-height: 15px ; opacity: 0.5">October 30, October 31, November 1</p></div>
+    <div class="card py-3 pr-3 pl-5 border-0 text-center" style="color: #fff ; background-color: rgba(0,0,0,0.5) ; clip-path: polygon(10% 0, 100% 0, 100% 100%, 0% 100%) ; min-height: 250px ; width: 50%  ; right: -50%"><p class="my-auto"> The city of Cryptic Falls put much efforts in organizing the Halloween celebrations - and the Folklore Academia always has been a huge part of it! Our non-freshmen club students put their hearts into performing and celebrating for all visitors, and for the first year students too!
+    <br><br>All students and staff officially joining can be housed on the festival grounds with tents, bathrooms and the park cafeteria.</p></div>
+<!-- Hacked note 1 -->
+            <div class="card p-0 m-2 float-right rounded-0 text-center" style="transform: rotate(3deg) ; height: auto ; width: 150px ; border: solid 2px #000; bottom: 50px ; left: 25%; ;  background-image: linear-gradient(to bottom,
+            #000 3%,
+            #17f437); font-family: Comic Sans MS ; overflow: hidden ; z-index: 5 ; box-shadow: 0px 0px 10px #000 ; color: #fff ; position: absolute">
+            
+            <div class="card border-0 bg-transparent" style="background-image: url(https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; height: 500px ; width: 500px; background-size: cover; background-attachment: fixed; background-position: right ; z-index: -1; position: absolute ;  opacity: 0.5 ; filter: blur(1px)"></div>
+            <p class="m-2">Fuck yeah! I have so much fun there every year :D</p></div>
+<!-- End of hacked note 1 -->
+</div>
+
+<!-- PROM NIGHT -->
+<div class="card slideright border-0 rounded-0 my-2" style="overflow: hidden ; min-height: 250px ; background-image: url(https://images.unsplash.com/photo-1588083066783-8828e623bad7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)">
+    
+<div class="overlay-right p-3 rounded-0 text-left" style="background-color: rgba(255,255,255) ; color: #000 ; clip-path: polygon(0 0, 90% 0, 100% 100%, 0% 100%);; min-height: 101% ; margin-right: 0px; z-index: 5 ; font-family: Courier New">
+        <p class="slidelefttext" style="line-height: 30px ; color: #3B0058">PROM<br>NIGHT</p>
+    <p class="pr-5 text-center" style="font-size: 14px ; line-height: 15px ; opacity: 0.5">End of third school year</p></div>    <div class="card py-3 pr-5 pl-3 border-0 text-center" style="color: #fff ; background-color: rgba(0,0,0,0.5) ; clip-path: polygon(0 0, 90% 0, 100% 100%, 0% 100%) ; min-height: 250px ; width: 55%"><p class="my-auto"> At the academia, many of our students did not get the chance to participate in the wonderful tradition that is a highschool promenade dance.
+    
+    <br><br>At the end of their three years of studying at our college, students are invited to our own version of a prom dance. And no, alcohol is still not allowed.</p></div>
+<!-- Hacked note 1 -->
+            <div class="card p-0 m-2 float-right rounded-0 text-center" style="transform: rotate(-3deg) ; height: auto ; width: 100px ; border: solid 2px #000; bottom: 50px ; right: 25%; ;  background-image: linear-gradient(to bottom,
+            #000 3%,
+            #17f437); font-family: Comic Sans MS ; overflow: hidden ; z-index: 5 ; box-shadow: 0px 0px 10px #000 ; color: #fff ; position: absolute">
+            
+            <div class="card border-0 bg-transparent" style="background-image: url(https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; height: 500px ; width: 500px; background-size: cover; background-attachment: fixed; background-position: right ; z-index: -1; position: absolute ;  opacity: 0.5 ; filter: blur(1px)"></div>
+            <p class="m-2">"No alcohol allowed" like it's gonna stop us</p></div>
+<!-- End of hacked note 1 -->
+</div>
+    </div>
+
+</div></div>
+</div>
+
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ ALUMNS ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+<div class="tab-pane fade hide" id="Alums">
+  <div class="container rounded-0 p-4 mt-2 mx-1 border-0" style="background-color: rgba(255,255,255,0.75) ; color:#3B0058 ; z-index: 1">
+
+    <div class="card p-3 text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+            #3B0058,
+            #7c0000) ; line-height: 22px ; font-weight: 400 ; border: solid 3px #fff ; font-family: Times New Roman ; font-size: 18px"><p><span style="font-size: 32px ; ">Notable Alums</span>
+            <br>Here are proudly displayed a list of all famous alums of our academia. Because community college should not mean no chance in becoming a great monster!</p>
+    </div>
+
+<!-- Hacked note 1 -->
+            <div class="card p-0 m-2 float-right rounded-0 text-center" style="transform: rotate(-3deg) ; height: auto ; width: 300px ; border: solid 2px #000; top: 110px ; right: 2px ;  background-image: linear-gradient(to bottom,
+            #000 3%,
+            #17f437); font-family: Comic Sans MS ; overflow: hidden ; z-index: auto ; box-shadow: 0px 0px 10px #000 ; color: #fff ; position: absolute">
+            
+            <div class="card border-0 bg-transparent" style="background-image: url(https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; height: 500px ; width: 500px; background-size: cover; background-attachment: fixed; background-position: right ; z-index: -1; position: absolute ; opacity: 0.5 ; filter: blur(1px)"></div>
+            <p class="m-2">I'm not judging cuz I know the academia is old but COME ON BLACK AND WHITE PICTURES???</p></div>
+<!-- End of hacked note 1 -->
+
+        <hr>
+        <div style="background-image: url(https://images.unsplash.com/photo-1621886292650-520f76c747d6?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; height: 50px ; background-position: center ; border: solid 3px #fff "></div>
+        <hr>
+
+<!-- MADDY -->
+    <div class="row p-2 justify-content-center no-gutters">
+        <div class="col-lg-5 text-center zoom-tilt-left">
+            <img class="my-2 mx-auto" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119467784_l9SMdcbgeUC345M.png" style="height: 250px ; width: 250px ; filter: grayscale(100%)">
+        <div class="card p-2 mx-auto text-center" style="width: 250px ; color: #fff ; background-image: linear-gradient(to bottom,
+            #3B0058,
+            #7c0000) ; z-index: 8 ;border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px ;"><p> <span style="font-size: 18px"><a href="https://toyhou.se/28745307.madad-maddy-khalid" target="_blank"><u>Madad Khalid</u></a></span><br>CEO of Eternity Organization and world-renowned scientist</p></div></div>
+            <div class="col-lg-7 my-auto p-3 text-center" style="background-color: #fff"><p><em>B.S in Magicology</em>
+            <br><br>Mostly famous for her groundbreaking cure against the propagation of common vampirism, Mrs. Khalid studied at our academia thirty years ago. She was a beloved student of ours, and fitted right in amongst us. She is the proof that even without a PhD, a smart mind can do wonders if given the opportunity.
+            <br><br>We all love you, Mrs. Khalid, except maybe professor Frankenstein who still does not approve trying to dissect him "for science".</p>
+<!-- Hacked note 1 -->
+            <div class="card p-0 m-2 float-right rounded-0 text-center" style="transform: rotate(2deg) ; height: auto ; min-width: 200px ; border: solid 2px #000; bottom: -60px ;  background-image: linear-gradient(to bottom,
+            #000 3%,
+            #17f437); font-family: Comic Sans MS ; overflow: hidden ; z-index: auto ; box-shadow: 0px 0px 10px #000 ; color: #fff ; position: absolute ; z-index: 5">
+            
+            <div class="card border-0 bg-transparent" style="background-image: url(https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; height: 500px ; width: 500px; background-size: cover; background-attachment: fixed; background-position: right ; z-index: -1; position: absolute ; opacity: 0.5 ; filter: blur(1px)"></div>
+            <p class="m-2">With all due respect, she sounds like she'd kill a puppy "for science"</p></div>
+<!-- End of hacked note 1 -->
+        </div>    </div>
+
+<hr>
+        
+<!-- CASSANDRA -->
+    <div class="row p-2 justify-content-center no-gutters">
+            <div class="col-lg-7 my-auto p-3 text-center" style="background-color: #fff"><p><em>B.S in Magicology</em>
+            <br><br>Nobody believed her when she claimed to become a famous doctor someday, nobody except us. We are proud to have pushed her on the path she took. She deserves nothing else but to serve one of our world's most known leader and his heirs.
+            <br><br>She is also known for helping founding the Healthcare Organization For Newly-Turned Vampires! Thank you for your kindness, Mrs. Von Eckzahn!</p>
+    </div>
+<div class="col-lg-5 text-center zoom-tilt">
+            <img class="my-2 mx-auto" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119468148_HWB9v4N00g4m0j9.png" style="height: 250px ; width: 250px ; filter: grayscale(100%)">
+        <div class="card p-2 mx-auto text-center" style="width: 250px ; color: #fff ; background-image: linear-gradient(to bottom,
+            #3B0058,
+            #7c0000) ; border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px ;"><p> <span style="font-size: 18px"><u>Cassandra Von Eckzahn</u></span><br>Head Doctor of V. Dracula, King of the Vampiric State of Transylvania</p></div></div>
+</div>
+<hr>
+<!-- CONAN -->
+    <div class="row p-2 justify-content-center no-gutters">
+        
+            
+    <div class="col-lg-5 text-center zoom-tilt-left">
+            <img class="my-2 mx-auto" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119468148_HWB9v4N00g4m0j9.png" style="height: 250px ; width: 250px ; filter: grayscale(100%)">
+        <div class="card p-2 mx-auto text-center" style="width: 250px ; color: #fff ; background-image: linear-gradient(to bottom,
+            #3B0058,
+            #7c0000) ; border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px ;"><p> <span style="font-size: 16px"><u>Conan <span style="font-size: 18px">"Sovirtuo"</span> Mac Claw</u></span><br>World-famous musician</p></div>
+            </div>
+<div class="col-lg-7 my-auto p-3 text-center" style="background-color: #fff"><p><em>B.Mus in Music Theory and Composition</em>
+            <br><br>You probably heard his most famous songs such as "Tales of A Lost Melody" or "Moon, You Who Craddle Us", as Sovirtuo is not your average singer. He shot for the stars, and the moon he so do loves kept him close for all monsters to see amongst a sea of artists. We are glad to have witnessed his raw talent at our academia, and helped him to shape his passion into songs that to this day still make our hearts beat in unison.
+            <br><br>Sovirtuo, if you see this, what about a comeback tour starting at Cryptic Falls? We would love to see you again ♥</p>
+    
+<!-- Hacked note 2 -->
+            <div class="card p-0 m-2 float-right rounded-0 text-center" style="transform: rotate(-2deg) ; height: auto ; min-width: 200px ; border: solid 2px #000; bottom: -60px ;  background-image: linear-gradient(to bottom,
+            #000 3%,
+            #17f437); font-family: Comic Sans MS ; overflow: hidden ; z-index: auto ; box-shadow: 0px 0px 10px #000 ; color: #fff ; position: absolute ; z-index: 5">
+            
+            <div class="card border-0 bg-transparent" style="background-image: url(https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; height: 500px ; width: 1000px; background-size: cover; background-attachment: fixed; background-position: right ; z-index: -1; position: absolute ; opacity: 0.5 ; filter: blur(1px)"></div>
+            <p class="m-2">I remember him! Gosh, his songs are a big part of my childhood. New stuff when? :D</p></div>
+<!-- End of hacked note 2 -->
+
+    </div>
+</div>
+<hr>
+
+<!-- Stark -->
+    <div class="row p-2 justify-content-center no-gutters">
+            <div class="col-lg-7 my-auto p-3 text-center" style="background-color: #fff"><p><em>B.PE in Sport Sciences</em>
+            <br><br>Mr.Gaillard was heading for a more hands-on approach of sports before realizing he was not made for running and scoring goals. While studying at the academia, he switched his first major to focus on the art and tricks of American Football, becoming not a player but a wonderful coach to the most award-winning NFL Team.
+            <br><br>Hear us out, Mr.Gaillard, what about coming back to give a little lesson for our beloved Sports Students? Please?</p>
+    </div>
+<div class="col-lg-5 text-center zoom-tilt">
+            <img class="my-2 mx-auto" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119468148_HWB9v4N00g4m0j9.png" style="height: 250px ; width: 250px ; filter: grayscale(100%)">
+        <div class="card p-2 mx-auto text-center" style="width: 250px ; color: #fff ; background-image: linear-gradient(to bottom,
+            #3B0058,
+            #7c0000) ; border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px ;"><p> <span style="font-size: 18px"><u>Stark Gaillard</u></span><br>Head Coach for the Green Bay Panickers Football Team</p></div></div>
+</div>
+<hr>
+
+<!-- ADDISON -->
+    <div class="row p-2 justify-content-center no-gutters">
+        
+            
+    <div class="col-lg-5 text-center zoom-tilt-left">
+            <img class="my-2 mx-auto" src="https://f2.toyhou.se/file/f2-toyhou-se/images/119468148_HWB9v4N00g4m0j9.png" style="height: 250px ; width: 250px ; filter: grayscale(100%)">
+        <div class="card p-2 mx-auto text-center" style="width: 250px ; color: #fff ; background-image: linear-gradient(to bottom,
+            #3B0058,
+            #7c0000) ; border: solid 3px #fff ; border-radius: 25px ; font-family: Times New Roman ; line-height: 18px ;"><p> <span style="font-size: 18px"><u>Addison Yewdale</u></span><br>Celebrity chef, host of the "Fake Bake: There’s Always More Beneath The Icing" American TV show</p></div>
+            </div>
+<div class="col-lg-7 my-auto p-3 text-center" style="background-color: #fff"><p><em>Bachelor in Culinary Arts</em>
+            <br><br>Mrs.Yewdale has once claimed that the idea for Fake Bake came to her while studying at our Academia. The negative community reputation of our college hid the wonderfulness of our students, she said. And so, was born the idea of the most repulsing cakes that ever looked, hiding the most satisfying flavors and designs behind the ugliness.
+            <br><br>We could not be more grateful to the message she passes through her art, and we are glad to have been the inspiration behind it.</p>
+<!-- Hacked note 3 -->
+            <div class="card p-0 m-2 float-right rounded-0 text-center" style="transform: rotate(4deg) ; height: auto ; min-width: 200px ; border: solid 2px #000; bottom: -60px ;  background-image: linear-gradient(to bottom,
+            #000 3%,
+            #17f437); font-family: Comic Sans MS ; overflow: hidden ; z-index: auto ; box-shadow: 0px 0px 10px #000 ; color: #fff ; position: absolute ; z-index: 5">
+            
+            <div class="card border-0 bg-transparent" style="background-image: url(https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ; height: 500px ; width: 500px; background-size: cover; background-attachment: fixed; background-position: right ; z-index: -1; position: absolute ; opacity: 0.5 ; filter: blur(1px)"></div>
+            <p class="m-2">I watch her show every week, she makes me want to study baking fr</p></div>
+<!-- End of hacked note 3 -->
+
+    </div>
+</div>
+<hr>
+
+
+</div></div>
+
+  
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ HISTORY ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+<div class="tab-pane fade hide" id="History">
+      <div class="container rounded-0 p-4 mt-2 mx-1 border-0" style="background-color: rgba(255,255,255,0.75) ; color:#3B0058 ; z-index: 1">
+<div class="card p-3 text-center" style="color: #fff ; background-image: linear-gradient(to bottom,
+            #3B0058,
+            #7c0000) ; line-height: 22px ; font-weight: 400 ; border: solid 3px #fff ; font-family: Times New Roman ; font-size: 18px"><p><span style="font-size: 32px ; ">History</span>
+            <br>A section dedicated to the history of our beloved Academia, from its foundation two hundred years ago to the present day!</p>
+    </div>
+        <p class="text-center" style="font-size: 24px"><strong>W.I.P Page!</strong></p>
+
+</div></div>
+
+  
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+</div>
+
+
+<!-- FOOTER -->
+  <div class="card p-2 mx-auto my-3 rounded-0 border-0 text-center" style="margin-bottom: -20px ; background-color: rgba(255,255,255,0.75) ; color: #3B0058 ; font-weight: 700 ; text-shadow: 0px 0px 5px #fff, 0px 0px 5px #fff, 0px 0px 5px #fff">
+      <p> © 18XX - 2026 Folklore Academia<br>666 Mount Baker Boulevard Cryptic Falls, WA 98XXX</p>
+ 
+ <p style="color: #7c0000">The Folklore Academia is a fictional school for the world of <a href="https://toyhou.se/~world/225813.bloody-moonster" style="color: #460097" target="_BLANK"><em>I'll Make You Fall In Love, Bloody Moonster</em></a>, an upcoming novel by <a href="https://jokarlekin.carrd.co/" style="color: #460097" target="_BLANK">Kid "Jokarlekin" B.</a></p>
+ 
+ </div></div>
+</div>
+</html>

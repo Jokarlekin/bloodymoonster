@@ -1,10 +1,8 @@
-<head>
-  <title>Bloody Moonster: The Novel's Official Website</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fugaz+One&family=Jolly+Lodger&family=Kreon:wght@300..700&family=Underdog&display=swap" rel="stylesheet">
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-</head>
+<head><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fugaz+One&family=Jolly+Lodger&family=Kreon:wght@300..700&family=Underdog&display=swap" rel="stylesheet"></head>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<script src="https://kit.fontawesome.com/051107e1a0.js" crossorigin="anonymous"></script>
 
 <style>
 .underdog-regular {
@@ -12,19 +10,73 @@
   font-weight: 400;
   font-style: normal;
 }
+
+body {
+  padding: 25px;
+  background:url(https://f2.toyhou.se/file/f2-toyhou-se/images/120007933_R0RRzMYmgPpxKi8.png) fixed center;
+  position:absolute;
+  background-size:cover;
+  width:100%;
+  z-index:-1;
+  color: #fff;
+  font-size: 25px;
+  text-shadow: 0px 0px 5px #000, 0px 0px 5px #000, 0px 0px 5px #000, 0px 0px 5px #000;
+  transition: background-image 0.5s;
+}
+
+.light-mode {
+  padding: 25px;
+  background:url(https://images.unsplash.com/photo-1490735891913-40897cdaafd1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) fixed center;
+  position:absolute;
+  background-size:cover;
+  width:100%;
+  z-index:-1;
+  color: black;
+  font-size: 25px;
+  text-shadow: none;
+  transition: background-image 0.5s;
+}
+
+/* Optional button styling */
+button {
+  padding: 8px;
+  border: none;
+  border-radius: 8px;
+  background-color: #111;
+  color: #fff;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-top: 2rem;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.light-mode button {
+  background-color: #fff;
+  color: #111;
+}
+
 </style>
 
-<div style="position:absolute;top:0;bottom:0;left:0; background:url(https://f2.toyhou.se/file/f2-toyhou-se/images/120007933_R0RRzMYmgPpxKi8.png) fixed center;background-size:cover;width:100%; background-size: cover ; background-position: center;z-index:-1;"></div>
-<p style="text-align: center;">
+<script>
+  function myFunction() {
+  var element = document.body;
+  element.classList.toggle("light-mode");
+} 
+</script>
+
+<body>
+  <button onclick="myFunction()" style="position: absolute; right:80px; margin-top: -10px"><i class="fa-solid fa-sun"></i> / <i class="fa-solid fa-moon"></i></button>
+
+    <p style="text-align: center;">
 
         <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/99179234_XEfNx73uP0pPoYq.png?1746633892" 
         class="fr-fic fr-dii"
         style="max-width:45%; 
         max-height:auto;
-        min-width: 25% ;
-        min-height: auto;
         margin:auto"></p>
-        <hr class="mx-auto" style="max-width: 60%; border: #fff 0.1px dashed; border-left: none; border-right: none;margin-top: -10px; margin-bottom: -15px">    
-
-        <p align="center" style="font-size: larger; margin: 25px ; color: #fff ; font-family:underdog ; text-shadow: 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000">...How did you get here, dear reader?<br>You are a curious one, aren't you? Your curiosity will be worth it soon, but for now, this website is a work-in-progress!<br>Check <a href="https://toyhou.se/~world/225813.bloody-moonster" style="color: #9ed6ed">the ToyHouse website for everything you need about the novel!</a></p>
+        
+        <p align="center" style="font-family:underdog ; font-size: 22px">...How did you get here, dear reader?<br>You are a curious one, aren't you? Your curiosity will be worth it soon, but for now, this website is a work-in-progress!<br>Check <a href="https://toyhou.se/~world/225813.bloody-moonster" style="color: #9ed6ed">the ToyHouse website for everything you need about the novel!</a></p>
         </div>
+
+
+        </body>

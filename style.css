@@ -1,8 +1,120 @@
-.underdog-regular {
-  font-family: "Underdog", system-ui;
-  font-weight: 400;
-  font-style: normal;
+/* !!!!! PROTECT FROM COPYING !!!! */
+/* Put noselect in any class tag to disallow users to copy :D. It can however be bypassed with enough knowledge so like, copyright protection is the best thing here. */
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
 }
+
+html, body {
+    min-height: 100%;
+    margin: 0;
+}
+
+body {
+  background:url(https://f2.toyhou.se/file/f2-toyhou-se/images/120007933_R0RRzMYmgPpxKi8.png) fixed center;
+  position:absolute;
+  background-size:cover;
+  z-index:-1;
+  color: #fff;
+  font-size: 25px;
+  text-shadow: 0px 0px 5px #000, 0px 0px 5px #000, 0px 0px 5px #000, 0px 0px 5px #000;
+  transition: 0.5s;
+  overflow-x: hidden;
+  min-width: 100%;
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family:'Trebuchet MS';
+}
+
+main {
+  flex: 1
+}
+
+h1, h2, h3, h4 {
+  font-family:'Courier New', Courier, monospace;
+}
+
+hr {
+  border: 1px dashed ; 
+  width: 90% ;
+  color: #9ed6ed ;
+}
+
+.light-mode {
+  background:url(https://images.unsplash.com/photo-1490735891913-40897cdaafd1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) fixed center;
+  position:absolute;
+  background-size:cover;
+  z-index:-1;
+  color: black;
+  text-shadow: none;
+  transition:  0.5s;
+}
+
+.card {
+padding: 3vh ;
+background-color: rgba(0, 0, 0, 0.2);
+margin: 25px;
+border: none; }
+
+/* Optional button styling */
+button {
+  padding: 8px;
+  border: none;
+  border-radius: 8px;
+  background-color: #111;
+  color: #fff;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-top: 2rem;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.light-mode button {
+  background-color: #fff;
+  color: #111;
+}
+
+a {
+  text-shadow: 0px 0px 5px #000, 0px 0px 5px #000;
+  color: #9ed6ed;
+  text-decoration: none;
+}
+
+/* NAVIGATION */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: sticky;
+}
+
+ul li {
+  float: left ;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #02020280;
+}
+
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&family=Jolly+Lodger&family=Kreon:wght@300..700&family=Underdog&display=swap');
 
 @font-face {
     font-family:'Lemon Tuesday', sans-serif;

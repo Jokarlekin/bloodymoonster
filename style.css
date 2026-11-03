@@ -26,7 +26,7 @@ body {
   text-shadow: 0px 0px 5px #000, 0px 0px 5px #000, 0px 0px 5px #000, 0px 0px 5px #000;
   transition: 0.5s;
   overflow-x: hidden;
-  min-width: 100%;
+  width: 100%;
   margin: 0;
   min-height: 100vh;
   display: flex;
@@ -34,9 +34,6 @@ body {
   font-family:'Trebuchet MS';
 }
 
-main {
-  flex: 1
-}
 
 h1, h2, h3, h4 {
   font-family:'Courier New', Courier, monospace;
@@ -121,4 +118,33 @@ ul li a:hover {
     src: url('https://jokarlekin.github.io/bloodymoonster/fonts/Lemon Tuesday.woff2') format('woff2');
     font-weight: 100;
     font-style: normal;
+}
+
+/* ANIMATIONS */
+
+/* ================= ANIMATIONS ================== */
+
+.customfade {animation: CustomFade ease 3s;}
+@keyframes CustomFade {0% {opacity:0} 100% {opacity:1}}
+
+.fade-bottom {animation: FadeBottom ease 3s;}
+@keyframes FadeBottom {0% {opacity:0; top: -2rem} 100% {opacity:1;top:0}}
+
+.fade-right {animation: FadeRight ease 3s;}
+@keyframes FadeRight {0% {opacity:0; right: -2rem} 100% {opacity:1;right:0}}
+
+.zoom {animation: Zoom 2s ; transition: transform .2s;}
+.zoom:hover {transform: scale(1.05, 1.05)}
+
+.zoom-tilt {transition: transform .2s;}
+.zoom-tilt:hover {transform: scale(1.02,1.02) rotate(2deg);}
+
+.rock:hover {animation: Rock ease .3s; animation-iteration-count: infinite}
+@keyframes Rock {0% {transform:rotate(-5deg)} 50% {transform:rotate(10deg)} 100% {transform:rotate(-5deg)}}
+
+.rock {animation: Rock ease .3s; animation-iteration-count: infinite}
+@keyframes Rock {0% {transform:rotate(-5deg)} 50% {transform:rotate(10deg)} 100% {transform:rotate(-5deg)}}
+
+@media (prefers-reduced-motion) {
+  html, html:before, html:after, body, body:before, body:after, *, *:hover {animation:none !important}
 }
